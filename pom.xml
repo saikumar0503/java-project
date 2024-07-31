@@ -5,7 +5,7 @@
     <groupId>com.crunchify.tutorials</groupId>
     <artifactId>crunchify-tutorials</artifactId>
     <version>1.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <name>Crunchify's Java Tutorials</name>
     <url>https://crunchify.com</url>
     <build>
